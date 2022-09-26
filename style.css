@@ -1,0 +1,25 @@
+:root{
+  --green: #82c25f;
+  --soft-green: #a7d58e;
+  --purple: #a05fc2;
+  --soft-purple: #c79edd;
+  --yello: #b4c25f;
+  --green-mediun: #5fc26e;
+  --green-triadic: #5fc2a0;
+  --blue-triadic:#5f82c2;
+  --warm-black:#201E1C;
+  --black: #282623;
+  --off-white: #faf8f7;
+  --just-white: #fff;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+  font-family: 'Noto Sans Mono', monospace;
+}
